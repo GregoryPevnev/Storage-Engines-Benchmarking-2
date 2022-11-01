@@ -1,0 +1,21 @@
+{
+    "data_directory_name": "data",
+
+    "write_batch_size": 1000,
+
+    "document_key_name": "id",
+    "document_prototype": {
+        "id": "[KEY]",
+        "full_name": "FirstName MiddleName LastName",
+        "email": "mailaddress@mail.uk",
+        "info1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "info2": "Sed aliquam aliquam est, quis faucibus nibh porta a. Sed vitae tellus eu nunc tincidunt faucibus.",
+        "info3": "Maecenas egestas accumsan bibendum. Morbi elit urna, iaculis vitae enim eu, aliquam posuere diam. Sed auctor nisl ligula.",
+        "info4": "Duis varius, diam eget fermentum faucibus ante leo condimentum mi, eu vehicula neque nunc a urna.",
+        "info5": "Curabitur ac nisl nec arcu imperdiet dignissim et lobortis dolor. Maecenas tristique dolor ante, quis congue lectus ultrices ac.",
+        "info6": "Proin venenatis lectus ac ante hendrerit blandit.",
+        "info7": "Nullam sit amet nibh sed lectus maximus varius et vitae turpis. Quisque nec dolor non turpis consequat posuere sed sed purus.",
+        "info8": "Nullam fringilla viverra velit at bibendum nisl pretium vel. Sed in metus nec lorem pretium vestibulum.",
+        "info9": "Quisque id cursus magna in mollis velit. Etiam sodales pulvinar neque non scelerisque."
+    }
+}

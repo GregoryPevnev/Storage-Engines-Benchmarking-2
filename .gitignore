@@ -1,0 +1,13 @@
+# MacOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Build-Files
+/build
+
+# Data-Files
+/data
+
+# Disk IO profiling output
+/disk_io_profile
